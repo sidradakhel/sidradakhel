@@ -1,4 +1,6 @@
 ## Hi there, I'm Sidra 👋
+![Uploading Pic.JPEG…]()
+
 
 ## 🔹 About Me
 I'm an aspiring software developer passionate about building intelligent systems that solve real-world problems. I have experience in Python, data analysis, and machine learning, and I'm continuously expanding my skill set through hands-on projects and collaborative learning.
