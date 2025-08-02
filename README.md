@@ -1,5 +1,10 @@
 ## Hi there, I'm Sidra 👋
 
+## 🔹 About Me
+I'm an aspiring software developer passionate about building intelligent systems that solve real-world problems. I have experience in Python, data analysis, and machine learning, and I'm continuously expanding my skill set through hands-on projects and collaborative learning.
+
+📫 **Email**: sidradakhel21@gmail.com
+🔗 **LinkedIn**: [linkedin.com/in/sidradakhel](https://linkedin.com/in/sidradakhel)
 <!--
 **sidradakhel/sidradakhel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🔹 About Me
